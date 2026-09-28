@@ -1,4 +1,4 @@
-<img width="1917" height="1020" alt="Screenshot 2026-09-28 230228" src="https://github.com/user-attachments/assets/49253ae1-93f6-4a8b-8a86-488f198abfca" /># Active-Directory-and-User-Management-Lab
+# Active-Directory-and-User-Management-Lab
 
 ## The Environment Architecture
 
