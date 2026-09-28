@@ -10,6 +10,8 @@ Building the foundation: VMware Workstation inventory pane displaying both the W
 Configuring an isolated Host-only network (VMnet1) within the VMware Virtual Network Editor to ensure secure, private communication for the domain environment.
 <br>
 
+***
+
 ## Corporate Structure (Organizational Units)
 
 <img width="1917" height="1020" alt="Screenshot 2026-09-28 230625" src="https://github.com/user-attachments/assets/ed3dec2f-a7f6-4b73-8f1d-a0ebc0ef2db6" />
