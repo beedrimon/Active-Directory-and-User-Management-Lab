@@ -1,7 +1,7 @@
 # Active-Directory-and-User-Management-Lab
 
-## The Environment Architecture
-
+## 1. The Environment Architecture
+<br><br>
 <img width="958" height="500" alt="Screenshot 2026-09-28 223145" src="https://github.com/user-attachments/assets/096e13a1-581e-4f4d-a958-cbe2110c9fa1" /> <img width="958" height="500" alt="Screenshot 2026-09-28 223209" src="https://github.com/user-attachments/assets/790e7238-f748-4a9b-825d-7065798c0105" />
 Building the foundation: VMware Workstation inventory pane displaying both the Windows Server 2022 Domain Controller and Windows 11 client VMs running concurrently
 <br><br><br>
@@ -12,16 +12,16 @@ Configuring an isolated Host-only network (VMnet1) within the VMware Virtual Net
 
 ***
 
-## Corporate Structure (Organizational Units)
-
+## 2. Corporate Structure (Organizational Units)
+<br><br>
 <img width="1917" height="1020" alt="Screenshot 2026-09-28 230625" src="https://github.com/user-attachments/assets/ed3dec2f-a7f6-4b73-8f1d-a0ebc0ef2db6" />
 Designing a scalable corporate hierarchy using Organizational Units (OUs) mapped to standard business departments.
 <br><br><br>
 
 ***
 
-## User & Group Provisioning
-
+## 3. User & Group Provisioning
+<br><br>
 <img width="1917" height="1020" alt="Screenshot 2026-09-28 230228" src="https://github.com/user-attachments/assets/6c36307d-c96f-429d-a449-d8551aec5b19" />
 Populating departmental OUs with standardized user accounts, complete with consistent naming conventions and profile metadata.
 <br><br><br>
@@ -31,8 +31,8 @@ Implementing Role-Based Access Control (RBAC) by nesting specific users into dep
 
 ***
 
-## Group Policy Objects (GPOs)
-
+## 4. Group Policy Objects (GPOs)
+<br><br>
 <img width="1917" height="1023" alt="Screenshot 2026-09-28 230955" src="https://github.com/user-attachments/assets/7836e4a7-fd66-4093-aa78-c160a42d0ab4" />
 Enforcing corporate security standards by linking custom Group Policy Objects (GPOs) directly to targeted departmental OUs.
 <br><br><br>
@@ -43,8 +43,8 @@ Deep dive into policy configuration: Enforcing a mandatory 15-minute idle screen
 
 ***
 
-## Client Machine Domain Join
-
+## 5. Client Machine Domain Join
+<br><br>
 <img width="1917" height="1020" alt="Screenshot 2026-09-28 231207" src="https://github.com/user-attachments/assets/c3e2815e-dd2b-4e5f-ace7-188d01b092b8" />
 The successful handshake: Windows 10 client machine officially authenticated and joined to the local corporate domain.
 <br><br><br>
