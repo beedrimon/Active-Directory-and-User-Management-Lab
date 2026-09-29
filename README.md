@@ -58,13 +58,12 @@ Deep dive into policy configuration: Enforcing a mandatory 15-minute idle screen
 ## 5. Client Machine Domain Join
 <br>
 
-### System Properties on the Client VM
+### The Login Screen
 <img width="1917" height="1020" alt="Screenshot 2026-09-28 231207" src="https://github.com/user-attachments/assets/c3e2815e-dd2b-4e5f-ace7-188d01b092b8" />
 The successful handshake: Windows 10 client machine officially authenticated and joined to the local corporate domain.
 <br><br><br>
 
-
-### The Login Screen
+### System Properties on the Client VM
 <img width="1917" height="1026" alt="Screenshot 2026-09-28 231419" src="https://github.com/user-attachments/assets/85dd84ea-df3f-446a-805c-d976be5adbf1" />
 End-to-end validation: Authenticating a standard domain user on the client workstation via Active Directory credentials.
 <br><br><br>
